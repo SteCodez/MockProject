@@ -24,4 +24,5 @@ def get_sales_data():
     print(f"The data provided is {data_str}")
  
     sales_string = data_str.split(",")
+    print(sales_data)
 get_sales_data()
